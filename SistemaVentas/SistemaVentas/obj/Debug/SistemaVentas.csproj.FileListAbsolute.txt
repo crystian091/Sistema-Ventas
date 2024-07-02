@@ -1,0 +1,13 @@
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.AssemblyReference.cache
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Form1.resources
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Form2.resources
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Form3.resources
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\royer\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Form4.resources
